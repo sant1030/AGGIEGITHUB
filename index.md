@@ -15,7 +15,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy09sY7Lr84VWMNtwdROVe5on_DAUo2BMbvA&usqp=CAU)
+
 
 
 
@@ -26,6 +26,13 @@ Reasons we should still be a top contender for the College Football Playoffs aft
 3. Ohio State lost and they were number 3 so they be moved down after us
 4. We are just getting started and coming for Bama!
 5. Jimbo
+
+What we need to do to play and win more in games in the next weeks
+1. Run the ball more and give Spiller more touches
+2. Do not let Calzada throw as much because he is throwing some risky passes
+3. Wydermyer needs to be looked at more often
+4. We have a 5 star receiver why is he not playing as much??
+
 
 
 - Bulleted
