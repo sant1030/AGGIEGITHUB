@@ -33,6 +33,9 @@ What we need to do to play and win more in games in the next weeks
 3. Wydermyer needs to be looked at more often
 4. We have a 5 star receiver why is he not playing as much??
 
+The A&M V.S T.U Rivalry
+So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and when we beat them does that mean we would have destroyed T.U in a rivalry game? T.U is scared now since they will be joining the SEC soon...
+
 
 
 - Bulleted
