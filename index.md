@@ -15,6 +15,16 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+
+BLOG ON AGGIE FOOTBALL
+Reasons we should be a Top 4 team after Week 2
+1. We are still undefeated and even though we barely beat Colorado 11-7, it is because we lost our starting QB
+2. Our defense is top 5 in the country and we lock everyone up
+3. Ohio State lost and they were number 3 so they're gone
+4. We are just getting started and coming for Bama!
+5. Jimbo
+
+
 - Bulleted
 - List
 
