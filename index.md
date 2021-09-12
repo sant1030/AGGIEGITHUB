@@ -1,3 +1,4 @@
+AGGIE GITHUB FOR TCMG 412
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sant1030/AGGIEGITHUB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,10 +18,10 @@ Syntax highlighted code block
 
 
 BLOG ON AGGIE FOOTBALL
-Reasons we should be a Top 4 team after Week 2
-1. We are still undefeated and even though we barely beat Colorado 11-7, it is because we lost our starting QB
+Reasons we should still be a top contender for the College Football Playoffs after Week 2
+1. We are still undefeated and even though we barely beat Colorado 10-7, it is because we lost our starting QB
 2. Our defense is top 5 in the country and we lock everyone up
-3. Ohio State lost and they were number 3 so they're gone
+3. Ohio State lost and they were number 3 so they be moved down after us
 4. We are just getting started and coming for Bama!
 5. Jimbo
 
