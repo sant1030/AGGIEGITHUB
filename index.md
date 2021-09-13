@@ -29,5 +29,5 @@ So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and
 ## Learn more about TAMU Football!
 1. ![Texas A&M Traditions]
 
-[I'm an inline-style link]https://sant1030.github.io/AGGIEGITHUB/Dylan_Page
+https://sant1030.github.io/AGGIEGITHUB/Dylan_Page
 
