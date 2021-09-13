@@ -29,6 +29,7 @@ So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and
 ## Learn more about TAMU Football!
 1. [Texas A&M Traditions](https://sant1030.github.io/AGGIEGITHUB/Dylan_Page)
 2. [About Kyle Field](https://sant1030.github.io/AGGIEGITHUB/kyle-field)
+3. [Student Section](https://sant1030.github.io/AGGIEGITHUB/Student-Section)
 
 
 
