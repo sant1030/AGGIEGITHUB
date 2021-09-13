@@ -27,7 +27,6 @@ The two games we have played have been:
 So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and when we beat them does that mean we would have destroyed T.U in a rivalry game? T.U is scared now since they will be joining the SEC soon...
 
 ## Learn more about TAMU Football!
-1. ![Texas A&M Traditions]
-
-[I'm an inline-style link] https://sant1030.github.io/AGGIEGITHUB/Dylan_Page
+1. ![Texas A&M Traditions] (https://sant1030.github.io/AGGIEGITHUB/Dylan_Page)
+2. ![About Kyle Field] (https://sant1030.github.io/AGGIEGITHUB/Dylan_Page/kyle-field/)
 
