@@ -33,4 +33,3 @@ So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and
 4. ![About Reveille] (https://github.com/sant1030/AGGIEGITHUB/blob/main/Rev_page.md)
 
 
-
