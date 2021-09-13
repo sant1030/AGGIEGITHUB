@@ -4,4 +4,4 @@ We have incorporated official yells that we all practice for cheering the team o
 Since A&M has one of the largest student body populations, we in turn have one of the largest student sections in the nation.
 
 
-![](https://en.wikipedia.org/wiki/Texas_A%26M_University_Corps_of_Cadets#/media/File:Corps_of_Cadets_in_Block_T_16_Nov_2019.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Corps_of_Cadets_in_Block_T_16_Nov_2019.jpg/2560px-Corps_of_Cadets_in_Block_T_16_Nov_2019.jpg)
