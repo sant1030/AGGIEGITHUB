@@ -1,8 +1,3 @@
----
-title: TEMP_TITLE
-layout: template
-filename: Dylan_Page
---- 
 
 #Texas A&M Traditions
 Texas A&M has many traditions that are unique to the school. Some of these include:
