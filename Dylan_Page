@@ -1,0 +1,19 @@
+---
+title: TEMP_TITLE
+layout: template
+filename: Dylan_Page
+--- 
+
+#Texas A&M Traditions
+Texas A&M has many traditions that are unique to the school. Some of these include:
+1. Not having cheer leaders but rather yell leaders
+2. Having our famous Aggie War Hymn
+3. The fans being refered to as the 12th man
+4. Midnight Yell where the students can practice the yells for the games
+
+Texas A&M formas president Gates talks about the importance of traditions in saying:
+> “Were we to become a top ten university and lose that spirit,
+those traditions, our culture, we would be nothing more than
+another giant education factory; a big brain with no heart. Hell,
+we might as well be in Austin.”
+
