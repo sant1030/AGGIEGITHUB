@@ -1,10 +1,9 @@
-## AGGIE GITHUB FOR TCMG 412
+# AGGIE GITHUB FOR TCMG 412
 
 
 You can use the [editor on GitHub](https://github.com/sant1030/AGGIEGITHUB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
 
 
@@ -18,13 +17,19 @@ Reasons we should still be a top contender for the College Football Playoffs aft
 4. We are just getting started and coming for Bama!
 5. Jimbo
 
-# What we need to do to play and win more in games in the next weeks
+## Current Standings for Aggie Football
+We have currently only played a couple of games and shown some promising aspects of good football.
+The two games we have played have been:
+* Aggies vs. Kent State - W for Aggies
+* Aggies vs. CU Boulder - W for Aggies
+
+## What we need to do to play and win more in games in the next weeks
 1. Run the ball more and give Spiller more touches
 2. Do not let Calzada throw as much because he is throwing some risky passes
 3. Wydermyer needs to be looked at more often
 4. We have a 5 star receiver why is he not playing as much??
 
-# The A&M V.S T.U Rivalry
+## The A&M V.S T.U Rivalry
 So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and when we beat them does that mean we would have destroyed T.U in a rivalry game? T.U is scared now since they will be joining the SEC soon...
 
 
