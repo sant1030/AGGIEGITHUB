@@ -2,14 +2,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy09sY7Lr84VWMNtwdROVe5on_DAUo2BMbvA&usqp=CAU)
 
 
-You can use the [editor on GitHub](https://github.com/sant1030/AGGIEGITHUB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
-
 # BLOG ON AGGIE FOOTBALL
 Reasons we should still be a top contender for the College Football Playoffs after Week 2
 1. We are still undefeated and even though we barely beat Colorado 10-7, it is because we lost our starting QB
@@ -33,25 +25,11 @@ The two games we have played have been:
 ## The A&M V.S T.U Rivalry
 So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and when we beat them does that mean we would have destroyed T.U in a rivalry game? T.U is scared now since they will be joining the SEC soon...
 
+## Learn more about TAMU Football!
+1. ![Texas A&M Traditions] (https://sant1030.github.io/AGGIEGITHUB/Dylan_Page/)
+2.
+3.
+4.
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sant1030/AGGIEGITHUB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
