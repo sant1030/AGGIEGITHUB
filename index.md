@@ -43,8 +43,8 @@ So since T.U got destroyed by Arkansas, when we play them in a couple weeks, and
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](url) and ![Image](https://camo.githubusercontent.com/5cd298d4ab1215d46d47da8ff2b557f810f257d1e5425a210ab46ab18f31ab00/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763537930397359374c72383456574d4e747764524f5665356f6e5f4441556f32424d62764126757371703d434155)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
