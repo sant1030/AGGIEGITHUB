@@ -2,6 +2,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy09sY7Lr84VWMNtwdROVe5on_DAUo2BMbvA&usqp=CAU)
 
 
+
 # BLOG ON AGGIE FOOTBALL
 Reasons we should still be a top contender for the College Football Playoffs after Week 2
 1. We are still undefeated and even though we barely beat Colorado 10-7, it is because we lost our starting QB
